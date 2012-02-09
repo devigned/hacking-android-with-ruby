@@ -576,10 +576,7 @@ ul {
 
 /* on overview step everything is visible */
 
-#impress.step-overview .step {
-    opacity: 1;
-    cursor: pointer;
-}
+
 
 /*
  * SLIDE STEP STYLES
